@@ -1,7 +1,7 @@
 
 self.__uv$config = {
     prefix: '/static/ixl/',
-    bare:'https://static.99.135.156.178.clients.your-server.de/bare/',
+    bare:'http://bare.petezahgames.com',
     encodeUrl: Ultraviolet.codec.xor.encode,
     decodeUrl: Ultraviolet.codec.xor.decode,
     handler: '/static/uv/uv.handler.js',
