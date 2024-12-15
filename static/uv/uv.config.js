@@ -1,6 +1,6 @@
 
 self.__uv$config = {
-    prefix: '/static/ixl/',
+    prefix: '/petezah/proxy/',
     bare:'https://static.99.135.156.178.clients.your-server.de/bare/',
     encodeUrl: Ultraviolet.codec.xor.encode,
     decodeUrl: Ultraviolet.codec.xor.decode,
